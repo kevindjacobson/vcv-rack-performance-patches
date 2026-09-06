@@ -1,0 +1,212 @@
+[
+  {
+    "file": "patches/bass-variants/bass-rack-01-cathedral-wire.vcv",
+    "modules": 100,
+    "cables": 199,
+    "hardware_output_cables": 2,
+    "sha256": "71a56c8be6b73471cf245cfe18d81dfa2ac02b46775a5b5be514ef21155a25fd"
+  },
+  {
+    "file": "patches/bass-variants/bass-rack-02-fm-riot-reactor.vcv",
+    "modules": 101,
+    "cables": 202,
+    "hardware_output_cables": 2,
+    "sha256": "f19ce0d3c29ae68226861fdba08b0178e5d0d9c186a63f1efab0df0a1a951746"
+  },
+  {
+    "file": "patches/bass-variants/bass-rack-03-icebreaker-glitch-looper.vcv",
+    "modules": 100,
+    "cables": 202,
+    "hardware_output_cables": 2,
+    "sha256": "21eb9b35122ee1fae04b269a5aeddc011179ac7ef35dc960986d3d1357b2a830"
+  },
+  {
+    "file": "patches/bass-variants/bass-rack-04-polybeast-chord-swarm.vcv",
+    "modules": 101,
+    "cables": 202,
+    "hardware_output_cables": 2,
+    "sha256": "c9519dadfc0a0e031400d151dcc2c8655789fc2cf695033eb4dfdcdc22f75e7a"
+  },
+  {
+    "file": "patches/bass-variants/bass-rack-05-elemental-war-drums.vcv",
+    "modules": 101,
+    "cables": 205,
+    "hardware_output_cables": 2,
+    "sha256": "09eee2985066529f9d3befdbd837152606c69013d7ffc837cd12e7c586815dd0"
+  },
+  {
+    "file": "patches/development/checkpoints/follin-live-trio-before-apple-bass-fx.vcv",
+    "modules": 70,
+    "cables": 132,
+    "hardware_output_cables": 2,
+    "sha256": "e0e5205b446eb2858a341de30ffe4092ba96c57afeaeaa87c7b3552cb97a2445"
+  },
+  {
+    "file": "patches/development/checkpoints/follin-live-trio-before-bass-latch.vcv",
+    "modules": 55,
+    "cables": 108,
+    "hardware_output_cables": 2,
+    "sha256": "6dd5d8e16e008673f1be0faecac27ecc6c29ee7e956108350e73b55e08b659ab"
+  },
+  {
+    "file": "patches/development/checkpoints/follin-live-trio-before-bend.vcv",
+    "modules": 51,
+    "cables": 91,
+    "hardware_output_cables": 2,
+    "sha256": "6ffbcd050164d3c2697614f54fcb578c677e73086be8aa928affe0628e0aea3d"
+  },
+  {
+    "file": "patches/development/checkpoints/follin-live-trio-before-chip-drums.vcv",
+    "modules": 70,
+    "cables": 132,
+    "hardware_output_cables": 2,
+    "sha256": "e0e5205b446eb2858a341de30ffe4092ba96c57afeaeaa87c7b3552cb97a2445"
+  },
+  {
+    "file": "patches/development/checkpoints/follin-live-trio-before-faders.vcv",
+    "modules": 53,
+    "cables": 98,
+    "hardware_output_cables": 2,
+    "sha256": "38deeb003948d2dbac18222ce39a43de310f02fea805577b7991ef0dff847c77"
+  },
+  {
+    "file": "patches/development/checkpoints/follin-live-trio-before-free-pseudo-clock.vcv",
+    "modules": 88,
+    "cables": 166,
+    "hardware_output_cables": 2,
+    "sha256": "19da6769e0c782a2988fad1c25cdabd763048fa8b962f1b409acd61b14eef2e6"
+  },
+  {
+    "file": "patches/development/checkpoints/follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+    "modules": 88,
+    "cables": 165,
+    "hardware_output_cables": 2,
+    "sha256": "9f2b943472ce131b6016e793cbbc4a517c876ae87ed1c0c2d8f458fa54f63801"
+  },
+  {
+    "file": "patches/development/checkpoints/follin-live-trio-before-muted-main-arps.vcv",
+    "modules": 88,
+    "cables": 165,
+    "hardware_output_cables": 2,
+    "sha256": "599f006720251c17ce0da891f01bf35c56c643279af71a7dfe26f0b51e1ac493"
+  },
+  {
+    "file": "patches/development/checkpoints/follin-live-trio-before-pseudo-chords.vcv",
+    "modules": 80,
+    "cables": 151,
+    "hardware_output_cables": 2,
+    "sha256": "b2f7aac4db5d032e7bc6ccc5e43becc17e9b04817a3f8b56921c76a60837a82d"
+  },
+  {
+    "file": "patches/development/checkpoints/follin-live-trio-before-real-bass-calibration.vcv",
+    "modules": 80,
+    "cables": 151,
+    "hardware_output_cables": 2,
+    "sha256": "a5ea58076842a48a83b64f81a0af6aa173129349f7a2354114f7e70c9fad809a"
+  },
+  {
+    "file": "patches/development/iterations/follin-bench.vcv",
+    "modules": 51,
+    "cables": 91,
+    "hardware_output_cables": 2,
+    "sha256": "ebeaea9ef0bdd33b0381075df05d1b6402199c0ec5064a896d8a0a64599bfcc3"
+  },
+  {
+    "file": "patches/development/iterations/follin-performance-stage.vcv",
+    "modules": 52,
+    "cables": 91,
+    "hardware_output_cables": 2,
+    "sha256": "de444dd2c3f681f07e1d0bcaca3685b7df8b67ab2d8a56343874651de748ef4f"
+  },
+  {
+    "file": "patches/development/iterations/follin-performance-v2.vcv",
+    "modules": 26,
+    "cables": 37,
+    "hardware_output_cables": 2,
+    "sha256": "1c196e67f4bf7468dec8299eb5d2350c1bf25df0e806c9f1cd1429cd5a2b9021"
+  },
+  {
+    "file": "patches/development/iterations/follin-performance-work.vcv",
+    "modules": 27,
+    "cables": 37,
+    "hardware_output_cables": 2,
+    "sha256": "5615a8c26996aff93c07c6539fdc69066ec6ec4cb3588066fdb927c9789b54da"
+  },
+  {
+    "file": "patches/development/tests/follin-bass-latch-test.vcv",
+    "modules": 70,
+    "cables": 132,
+    "hardware_output_cables": 2,
+    "sha256": "b3c33d4691d9f6cef6c8ef08875517781c86af5a27cb7b530cf7258a176eae3f"
+  },
+  {
+    "file": "patches/development/tests/follin-bend-test.vcv",
+    "modules": 53,
+    "cables": 98,
+    "hardware_output_cables": 2,
+    "sha256": "bbfdabd6a1924b4b5b31029e61d2018f9aa7affd3168a5ac97ef51ca94f41c06"
+  },
+  {
+    "file": "patches/development/tests/follin-chip-punk-test.vcv",
+    "modules": 80,
+    "cables": 151,
+    "hardware_output_cables": 2,
+    "sha256": "a84b94639b7d4e1f27a29e86a34b3db6a627babde76e6b03810b3ebee7249130"
+  },
+  {
+    "file": "patches/development/tests/follin-faders-test.vcv",
+    "modules": 55,
+    "cables": 108,
+    "hardware_output_cables": 2,
+    "sha256": "6e06ed876647f0b5362f5223bd0157175ad95ebf5edf9f49f208e759929f1337"
+  },
+  {
+    "file": "patches/development/tests/follin-low-latency-pseudo-test.vcv",
+    "modules": 96,
+    "cables": 183,
+    "hardware_output_cables": 2,
+    "sha256": "6904bcb0ade18ceb5b84b3cf432f176ef230f7aed1b68e57ccbb2ad7e6204500"
+  },
+  {
+    "file": "patches/development/tests/follin-pseudo-chord-test.vcv",
+    "modules": 88,
+    "cables": 165,
+    "hardware_output_cables": 2,
+    "sha256": "24948bb6dee503b8b4b13c16119ef85e9f393c708ef14290d001f01c7bfbbb44"
+  },
+  {
+    "file": "patches/featured/bass-triple-drive-mixer.vcv",
+    "modules": 19,
+    "cables": 27,
+    "hardware_output_cables": 0,
+    "sha256": "a44dfba195a8bc389326859602c62cc8b954ac1487fbeb0dd297de506ca08b5b"
+  },
+  {
+    "file": "patches/featured/follin-chip-punk-working.vcv",
+    "modules": 80,
+    "cables": 151,
+    "hardware_output_cables": 2,
+    "sha256": "35c4f495b1f7d6b96883a47cf293716e36a69483de2ffa179d971ddd839660bd"
+  },
+  {
+    "file": "patches/featured/follin-live-trio.vcv",
+    "modules": 98,
+    "cables": 186,
+    "hardware_output_cables": 2,
+    "sha256": "ab3530a96961de6b796d9fc7de4c9c2d7250f2d87e8e09801df478459044b699"
+  },
+  {
+    "file": "patches/studies/tim-follin-chord-arp.vcv",
+    "modules": 22,
+    "cables": 37,
+    "hardware_output_cables": 2,
+    "sha256": "323068c1f4b05ddd23ac2e049455806d60b218cb051bd3563a0d5e89040dfeea"
+  },
+  {
+    "file": "patches/studies/wind-simulation.vcv",
+    "modules": 9,
+    "cables": 11,
+    "hardware_output_cables": 2,
+    "sha256": "ddecfa7ab7ec55ca87079315fa27467a5185425838765868d55322d76ff1a5fe"
+  }
+]

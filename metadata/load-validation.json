@@ -1,0 +1,188 @@
+{
+  "patches": 30,
+  "passed": 30,
+  "failed": 0,
+  "hardware_disabled_during_test": true,
+  "results": [
+    {
+      "file": "patches/bass-variants/bass-rack-01-cathedral-wire.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/bass-variants/bass-rack-02-fm-riot-reactor.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/bass-variants/bass-rack-03-icebreaker-glitch-looper.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/bass-variants/bass-rack-04-polybeast-chord-swarm.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/bass-variants/bass-rack-05-elemental-war-drums.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/development/checkpoints/follin-live-trio-before-apple-bass-fx.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/development/checkpoints/follin-live-trio-before-bass-latch.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/development/checkpoints/follin-live-trio-before-bend.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/development/checkpoints/follin-live-trio-before-chip-drums.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/development/checkpoints/follin-live-trio-before-faders.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/development/checkpoints/follin-live-trio-before-free-pseudo-clock.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/development/checkpoints/follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/development/checkpoints/follin-live-trio-before-muted-main-arps.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/development/checkpoints/follin-live-trio-before-pseudo-chords.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/development/checkpoints/follin-live-trio-before-real-bass-calibration.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/development/iterations/follin-bench.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/development/iterations/follin-performance-stage.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/development/iterations/follin-performance-v2.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/development/iterations/follin-performance-work.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/development/tests/follin-bass-latch-test.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/development/tests/follin-bend-test.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/development/tests/follin-chip-punk-test.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/development/tests/follin-faders-test.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/development/tests/follin-low-latency-pseudo-test.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/development/tests/follin-pseudo-chord-test.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/featured/bass-triple-drive-mixer.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/featured/follin-chip-punk-working.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/featured/follin-live-trio.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/studies/tim-follin-chord-arp.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    },
+    {
+      "file": "patches/studies/wind-simulation.vcv",
+      "rack_loaded": true,
+      "exit_code": 0,
+      "load_errors": []
+    }
+  ]
+}

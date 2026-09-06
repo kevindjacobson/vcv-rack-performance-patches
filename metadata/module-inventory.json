@@ -1,0 +1,1695 @@
+[
+  {
+    "plugin": "AudibleInstruments",
+    "module": "Clouds",
+    "versions": [
+      "2.0.0"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv"
+    ]
+  },
+  {
+    "plugin": "AudibleInstruments",
+    "module": "Elements",
+    "versions": [
+      "2.0.0"
+    ],
+    "patches": [
+      "bass-rack-05-elemental-war-drums.vcv"
+    ]
+  },
+  {
+    "plugin": "AudibleInstruments",
+    "module": "Plaits",
+    "versions": [
+      "2.0.0"
+    ],
+    "patches": [
+      "bass-rack-04-polybeast-chord-swarm.vcv"
+    ]
+  },
+  {
+    "plugin": "AudibleInstruments",
+    "module": "Rings",
+    "versions": [
+      "2.0.0"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv"
+    ]
+  },
+  {
+    "plugin": "BaconMusic",
+    "module": "ChipWaves",
+    "versions": [
+      "2.7.0"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-performance-v2.vcv",
+      "follin-performance-work.vcv",
+      "follin-pseudo-chord-test.vcv",
+      "tim-follin-chord-arp.vcv"
+    ]
+  },
+  {
+    "plugin": "Bidoo",
+    "module": "BAFIS",
+    "versions": [
+      "2.1.1"
+    ],
+    "patches": [
+      "bass-triple-drive-mixer.vcv"
+    ]
+  },
+  {
+    "plugin": "Bogaudio",
+    "module": "Bogaudio-Clpr",
+    "versions": [
+      "2.6.47"
+    ],
+    "patches": [
+      "bass-triple-drive-mixer.vcv"
+    ]
+  },
+  {
+    "plugin": "Bogaudio",
+    "module": "Bogaudio-EQ",
+    "versions": [
+      "2.6.47"
+    ],
+    "patches": [
+      "bass-triple-drive-mixer.vcv"
+    ]
+  },
+  {
+    "plugin": "Bogaudio",
+    "module": "Bogaudio-Lmtr",
+    "versions": [
+      "2.6.47"
+    ],
+    "patches": [
+      "bass-triple-drive-mixer.vcv"
+    ]
+  },
+  {
+    "plugin": "Core",
+    "module": "AudioInterface2",
+    "versions": [
+      "2.6.6"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "bass-triple-drive-mixer.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-performance-v2.vcv",
+      "follin-performance-work.vcv",
+      "follin-pseudo-chord-test.vcv",
+      "tim-follin-chord-arp.vcv",
+      "wind-simulation.vcv"
+    ]
+  },
+  {
+    "plugin": "Core",
+    "module": "MIDICCToCVInterface",
+    "versions": [
+      "2.6.6"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "Core",
+    "module": "MIDIToCVInterface",
+    "versions": [
+      "2.6.6"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-performance-v2.vcv",
+      "follin-performance-work.vcv",
+      "follin-pseudo-chord-test.vcv",
+      "tim-follin-chord-arp.vcv"
+    ]
+  },
+  {
+    "plugin": "Core",
+    "module": "MIDITriggerToCVInterface",
+    "versions": [
+      "2.6.6"
+    ],
+    "patches": [
+      "bass-triple-drive-mixer.vcv"
+    ]
+  },
+  {
+    "plugin": "Core",
+    "module": "Notes",
+    "versions": [
+      "2.6.6"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "bass-triple-drive-mixer.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "Fundamental",
+    "module": "8vert",
+    "versions": [
+      "2.6.4"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "Fundamental",
+    "module": "ADSR",
+    "versions": [
+      "2.6.4"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-performance-v2.vcv",
+      "follin-performance-work.vcv",
+      "follin-pseudo-chord-test.vcv",
+      "tim-follin-chord-arp.vcv"
+    ]
+  },
+  {
+    "plugin": "Fundamental",
+    "module": "Compare",
+    "versions": [
+      "2.6.4"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "Fundamental",
+    "module": "Delay",
+    "versions": [
+      "2.6.4"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv"
+    ]
+  },
+  {
+    "plugin": "Fundamental",
+    "module": "LFO",
+    "versions": [
+      "2.6.4"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-performance-v2.vcv",
+      "follin-performance-work.vcv",
+      "follin-pseudo-chord-test.vcv",
+      "tim-follin-chord-arp.vcv",
+      "wind-simulation.vcv"
+    ]
+  },
+  {
+    "plugin": "Fundamental",
+    "module": "Merge",
+    "versions": [
+      "2.6.4"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "Fundamental",
+    "module": "Mixer",
+    "versions": [
+      "2.6.4"
+    ],
+    "patches": [
+      "follin-performance-v2.vcv",
+      "follin-performance-work.vcv",
+      "tim-follin-chord-arp.vcv"
+    ]
+  },
+  {
+    "plugin": "Fundamental",
+    "module": "Noise",
+    "versions": [
+      "2.6.4"
+    ],
+    "patches": [
+      "wind-simulation.vcv"
+    ]
+  },
+  {
+    "plugin": "Fundamental",
+    "module": "Octave",
+    "versions": [
+      "2.6.4"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-performance-v2.vcv",
+      "follin-performance-work.vcv",
+      "follin-pseudo-chord-test.vcv",
+      "tim-follin-chord-arp.vcv"
+    ]
+  },
+  {
+    "plugin": "Fundamental",
+    "module": "Process",
+    "versions": [
+      "2.6.4"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "Fundamental",
+    "module": "Push",
+    "versions": [
+      "2.6.4"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "Fundamental",
+    "module": "Quantizer",
+    "versions": [
+      "2.6.4"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "Fundamental",
+    "module": "Rescale",
+    "versions": [
+      "2.6.4"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "Fundamental",
+    "module": "SEQ3",
+    "versions": [
+      "2.6.4"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "Fundamental",
+    "module": "SequentialSwitch2",
+    "versions": [
+      "2.6.4"
+    ],
+    "patches": [
+      "bass-triple-drive-mixer.vcv"
+    ]
+  },
+  {
+    "plugin": "Fundamental",
+    "module": "Split",
+    "versions": [
+      "2.6.4"
+    ],
+    "patches": [
+      "follin-performance-stage.vcv"
+    ]
+  },
+  {
+    "plugin": "Fundamental",
+    "module": "VCA-1",
+    "versions": [
+      "2.6.4"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-performance-v2.vcv",
+      "follin-performance-work.vcv",
+      "follin-pseudo-chord-test.vcv",
+      "tim-follin-chord-arp.vcv",
+      "wind-simulation.vcv"
+    ]
+  },
+  {
+    "plugin": "Fundamental",
+    "module": "VCF",
+    "versions": [
+      "2.6.4"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-performance-v2.vcv",
+      "follin-performance-work.vcv",
+      "follin-pseudo-chord-test.vcv",
+      "tim-follin-chord-arp.vcv",
+      "wind-simulation.vcv"
+    ]
+  },
+  {
+    "plugin": "Fundamental",
+    "module": "VCMixer",
+    "versions": [
+      "2.6.4"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "bass-triple-drive-mixer.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-performance-v2.vcv",
+      "follin-performance-work.vcv",
+      "follin-pseudo-chord-test.vcv",
+      "tim-follin-chord-arp.vcv",
+      "wind-simulation.vcv"
+    ]
+  },
+  {
+    "plugin": "Fundamental",
+    "module": "VCO",
+    "versions": [
+      "2.6.4"
+    ],
+    "patches": [
+      "follin-performance-stage.vcv"
+    ]
+  },
+  {
+    "plugin": "GlueTheGiant",
+    "module": "ExitBus",
+    "versions": [
+      "2.0.2"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "GlueTheGiant",
+    "module": "GigBus",
+    "versions": [
+      "2.0.2"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-performance-v2.vcv",
+      "follin-performance-work.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "HetrickCV",
+    "module": "Bitshift",
+    "versions": [
+      "2.5.4"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "HetrickCV",
+    "module": "Delta",
+    "versions": [
+      "2.5.4"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "HetrickCV",
+    "module": "GateDelay",
+    "versions": [
+      "2.5.4"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "HetrickCV",
+    "module": "LogicCombine",
+    "versions": [
+      "2.5.4"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "KautenjaDSP-PotatoChips",
+    "module": "SN76489",
+    "versions": [
+      "2.0.0"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-performance-v2.vcv",
+      "follin-performance-work.vcv",
+      "follin-pseudo-chord-test.vcv",
+      "tim-follin-chord-arp.vcv"
+    ]
+  },
+  {
+    "plugin": "KautenjaDSP-PotatoChips",
+    "module": "SuperEcho",
+    "versions": [
+      "2.0.0"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-performance-v2.vcv",
+      "follin-performance-work.vcv",
+      "follin-pseudo-chord-test.vcv",
+      "tim-follin-chord-arp.vcv"
+    ]
+  },
+  {
+    "plugin": "KautenjaDSP-PotatoChips",
+    "module": "VRC6",
+    "versions": [
+      "2.0.0"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-performance-v2.vcv",
+      "follin-performance-work.vcv",
+      "follin-pseudo-chord-test.vcv",
+      "tim-follin-chord-arp.vcv"
+    ]
+  },
+  {
+    "plugin": "ML_modules",
+    "module": "Arpeggiator",
+    "versions": [
+      "2.0.3"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-performance-v2.vcv",
+      "follin-performance-work.vcv",
+      "follin-pseudo-chord-test.vcv",
+      "tim-follin-chord-arp.vcv"
+    ]
+  },
+  {
+    "plugin": "ML_modules",
+    "module": "OctaPlus",
+    "versions": [
+      "2.0.3"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "ML_modules",
+    "module": "OctaSwitch",
+    "versions": [
+      "2.0.3"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "ML_modules",
+    "module": "PolySplitter",
+    "versions": [
+      "2.0.3"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "ML_modules",
+    "module": "SH8",
+    "versions": [
+      "2.0.3"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "ML_modules",
+    "module": "TrigBuf",
+    "versions": [
+      "2.0.3"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "ML_modules",
+    "module": "TrigDelay",
+    "versions": [
+      "2.0.3"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "NYSTHI",
+    "module": "NYEnvFollower",
+    "versions": [
+      "2.4.23"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "NYSTHI",
+    "module": "PitchVoltager",
+    "versions": [
+      "2.4.23"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-performance-v2.vcv",
+      "follin-performance-work.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "NYSTHI",
+    "module": "RodentV2",
+    "versions": [
+      "2.4.23"
+    ],
+    "patches": [
+      "bass-triple-drive-mixer.vcv"
+    ]
+  },
+  {
+    "plugin": "NYSTHI",
+    "module": "STKPitchShifter",
+    "versions": [
+      "2.4.23"
+    ],
+    "patches": [
+      "bass-triple-drive-mixer.vcv"
+    ]
+  },
+  {
+    "plugin": "NYSTHI",
+    "module": "mix8",
+    "versions": [
+      "2.4.23"
+    ],
+    "patches": [
+      "follin-performance-work.vcv"
+    ]
+  },
+  {
+    "plugin": "OhmerPrems",
+    "module": "KordZ",
+    "versions": [
+      "2.6.13"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "PathSet",
+    "module": "IceTray",
+    "versions": [
+      "2.5.0"
+    ],
+    "patches": [
+      "bass-rack-03-icebreaker-glitch-looper.vcv"
+    ]
+  },
+  {
+    "plugin": "Sulamith",
+    "module": "BPMClk",
+    "versions": [
+      "2.3.2"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-performance-v2.vcv",
+      "follin-performance-work.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "VCV-Drums",
+    "module": "DrumMachine",
+    "versions": [
+      "2.1.10"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "VCV-Recorder",
+    "module": "Recorder",
+    "versions": [
+      "2.0.3"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-live-trio.vcv",
+      "follin-performance-stage.vcv"
+    ]
+  },
+  {
+    "plugin": "VCVRackMcpServer",
+    "module": "RackMcpServer",
+    "versions": [
+      "2.1.1"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "bass-triple-drive-mixer.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-performance-v2.vcv",
+      "follin-performance-work.vcv",
+      "follin-pseudo-chord-test.vcv",
+      "tim-follin-chord-arp.vcv",
+      "wind-simulation.vcv"
+    ]
+  },
+  {
+    "plugin": "VultModulesFree",
+    "module": "Caudal",
+    "versions": [
+      "2.0.16"
+    ],
+    "patches": [
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv"
+    ]
+  },
+  {
+    "plugin": "VultModulesFree",
+    "module": "Debriatus",
+    "versions": [
+      "2.0.16"
+    ],
+    "patches": [
+      "bass-rack-02-fm-riot-reactor.vcv"
+    ]
+  },
+  {
+    "plugin": "VultModulesFree",
+    "module": "Opulus",
+    "versions": [
+      "2.0.16"
+    ],
+    "patches": [
+      "bass-rack-02-fm-riot-reactor.vcv"
+    ]
+  },
+  {
+    "plugin": "VultModulesFree",
+    "module": "Rescomb",
+    "versions": [
+      "2.0.16"
+    ],
+    "patches": [
+      "bass-rack-04-polybeast-chord-swarm.vcv"
+    ]
+  },
+  {
+    "plugin": "VultModulesFree",
+    "module": "TrummorFM",
+    "versions": [
+      "2.0.16"
+    ],
+    "patches": [
+      "bass-rack-05-elemental-war-drums.vcv"
+    ]
+  },
+  {
+    "plugin": "cf",
+    "module": "PEAK",
+    "versions": [
+      "2.0.2"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-performance-v2.vcv",
+      "follin-performance-work.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  },
+  {
+    "plugin": "squinktronix-plug1",
+    "module": "sqh-harmony2",
+    "versions": [
+      "2.2.5"
+    ],
+    "patches": [
+      "bass-rack-01-cathedral-wire.vcv",
+      "bass-rack-02-fm-riot-reactor.vcv",
+      "bass-rack-03-icebreaker-glitch-looper.vcv",
+      "bass-rack-04-polybeast-chord-swarm.vcv",
+      "bass-rack-05-elemental-war-drums.vcv",
+      "follin-bass-latch-test.vcv",
+      "follin-bench.vcv",
+      "follin-bend-test.vcv",
+      "follin-chip-punk-test.vcv",
+      "follin-chip-punk-working.vcv",
+      "follin-faders-test.vcv",
+      "follin-live-trio-before-apple-bass-fx.vcv",
+      "follin-live-trio-before-bass-latch.vcv",
+      "follin-live-trio-before-bend.vcv",
+      "follin-live-trio-before-chip-drums.vcv",
+      "follin-live-trio-before-faders.vcv",
+      "follin-live-trio-before-free-pseudo-clock.vcv",
+      "follin-live-trio-before-low-latency-pseudo-harmony.vcv",
+      "follin-live-trio-before-muted-main-arps.vcv",
+      "follin-live-trio-before-pseudo-chords.vcv",
+      "follin-live-trio-before-real-bass-calibration.vcv",
+      "follin-live-trio.vcv",
+      "follin-low-latency-pseudo-test.vcv",
+      "follin-performance-stage.vcv",
+      "follin-pseudo-chord-test.vcv"
+    ]
+  }
+]
